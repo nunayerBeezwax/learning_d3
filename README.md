@@ -1,7 +1,7 @@
 D3 Tutorial
 ===========
 
-Experimenting with D3 data-viz library and Weather API.  
+Experimenting with D3 data-vis library and Weather API.  
 
 Going through the tutorial at http://alignedleft.com/tutorials/d3 
 and adding my own spin on it by hooking it up to the OpenWeather API http://openweathermap.org/api
